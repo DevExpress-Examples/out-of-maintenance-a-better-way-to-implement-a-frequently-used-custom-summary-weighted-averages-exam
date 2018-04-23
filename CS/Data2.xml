@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <OrderDetails>
+    <OrderID>10248</OrderID>
+    <Product>Queso Cabrales</Product>
+    <Quantity>12</Quantity>
+    <UnitPrice>14</UnitPrice>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10248</OrderID>
+    <Product>Singaporean Hokkien Fried Mee</Product>
+    <Quantity>10</Quantity>
+    <UnitPrice>9.8</UnitPrice>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10248</OrderID>
+    <Product>Mozzarella di Giovanni</Product>
+    <Quantity>5</Quantity>
+    <UnitPrice>34.8</UnitPrice>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10249</OrderID>
+    <Product>Tofu</Product>
+    <Quantity>9</Quantity>
+    <UnitPrice>18.6</UnitPrice>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10249</OrderID>
+    <Product>Manjimup Dried Apples</Product>
+    <Quantity>40</Quantity>
+    <UnitPrice>42.4</UnitPrice>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10250</OrderID>
+    <Product>Jack's New England Clam Chowder</Product>
+    <Quantity>10</Quantity>
+    <UnitPrice>7.7</UnitPrice>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10250</OrderID>
+    <Product>Manjimup Dried Apples</Product>
+    <Quantity>35</Quantity>
+    <UnitPrice>42.4</UnitPrice>
+  </OrderDetails>
+  <OrderDetails>
+    <OrderID>10250</OrderID>
+    <Product>Louisiana Fiery Hot Pepper Sauce</Product>
+    <Quantity>15</Quantity>
+    <UnitPrice>16.8</UnitPrice>
+  </OrderDetails>
+</NewDataSet>
