@@ -159,7 +159,7 @@ Namespace WeightedAverages
         Private Sub gridView1_CustomSummaryCalculate(ByVal sender As Object, ByVal e As DevExpress.Data.CustomSummaryEventArgs) Handles gridView1.CustomSummaryCalculate
             If e.IsTotalSummary AndAlso e.SummaryProcess = CustomSummaryProcess.Finalize Then
                 Dim view As GridView = TryCast(sender, GridView)
-                If e.Item = view.Columns("UnitPrice").SummaryItem Then
+                If e.Item Is view.Columns("UnitPrice").SummaryItem Then
                     e.TotalValue = CustomSummaryHelper.GetWeightedAverage(view, "Quantity", "UnitPrice")
                 End If
             End If
